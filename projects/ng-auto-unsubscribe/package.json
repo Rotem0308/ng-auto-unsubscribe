@@ -1,6 +1,6 @@
 {
   "name": "ng-auto-unsubscribe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility base class for Angular to auto-unsubscribe from observables",
   "author": "Rotem Azarzar",
   "peerDependencies": {
