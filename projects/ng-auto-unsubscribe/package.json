@@ -1,0 +1,23 @@
+{
+  "name": "ng-auto-unsubscribe",
+  "version": "0.0.1",
+  "description": "A utility base class for Angular to auto-unsubscribe from observables",
+  "author": "Rotem Azarzar",
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "keywords": [
+    "angular",
+    "unsubscribe",
+    "rxjs",
+    "destroyref",
+    "auto-unsubscribe",
+    "takeUntilDestroyed"
+  ],
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "license": "MIT",
+  "sideEffects": false
+}
