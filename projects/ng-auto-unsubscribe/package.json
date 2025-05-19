@@ -7,6 +7,10 @@
     "@angular/common": "^19.2.0",
     "@angular/core": "^19.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rotem0308/ng-auto-unsubscribe.git"
+  },
   "keywords": [
     "angular",
     "unsubscribe",
